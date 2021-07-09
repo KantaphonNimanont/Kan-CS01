@@ -1,2 +1,2 @@
-A=int(input(13032549))
+A=input()
 print(A)
